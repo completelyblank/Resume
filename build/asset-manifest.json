@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c76456c.css",
+    "main.js": "/static/js/main.7763b5d2.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/vulner.jpeg": "/static/media/vulner.183a95fc9542d5a08269.jpeg",
+    "static/media/neuroto.png": "/static/media/neuroto.8857d235e8f4860bf1c4.png",
+    "static/media/multedio.png": "/static/media/multedio.43984ccc5f3696f3c6bb.png",
+    "static/media/blankshowcase.png": "/static/media/blankshowcase.0cf51bfb788ff134e74e.png",
+    "static/media/home-bg.png": "/static/media/home-bg.2d2c090c1d43a1f2597c.png",
+    "static/media/handtrack.png": "/static/media/handtrack.485d685cf2fa7d490d7d.png",
+    "static/media/terra.png": "/static/media/terra.9c35a7b7ffea9180656b.png",
+    "static/media/anime.png": "/static/media/anime.e7a697a2b59966bf810a.png",
+    "static/media/Muhammad_Raza_Khan_Resume.pdf": "/static/media/Muhammad_Raza_Khan_Resume.0d21d2a795319647bffa.pdf",
+    "static/media/fashion_gann.png": "/static/media/fashion_gann.ced9fa162d97f7d47aa5.png",
+    "static/media/avatar.png": "/static/media/avatar.fb29b32b67bf51c75f3b.png",
+    "static/media/pixelOdyssey.jpg": "/static/media/pixelOdyssey.8107e81f96fcafbd6ad9.jpg",
+    "static/media/axnos.png": "/static/media/axnos.6df441a457094f812c77.png",
+    "static/media/about.png": "/static/media/about.456c3f759d4c38456fd9.png",
+    "static/media/logo.png": "/static/media/logo.a091b09b6c40f11959da.png",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.2bd136cec2d14ddafca9.svg",
+    "main.3c76456c.css.map": "/static/css/main.3c76456c.css.map",
+    "main.7763b5d2.js.map": "/static/js/main.7763b5d2.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c76456c.css",
+    "static/js/main.7763b5d2.js"
+  ]
+}
