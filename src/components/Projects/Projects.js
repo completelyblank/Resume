@@ -74,25 +74,25 @@ function Projects() {
               ghLink="https://github.com/completelyblank/fashion_GANN"
               />
           </Col>
-
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={anime}
               isBlog={false}
-              title="HandTrack_Filter_Capture"
-              description="Computer Vision Project using openCV to read webcam images frame by frame and apply filters through MediaPipe landmark signals."
-              ghLink="https://github.com/completelyblank/handTrack_filter_capture"
+              title="Anime MERN"
+              description="A MERN Stack CRUD Website to introduce me to MERN Technologies."
+              ghLink="https://github.com/completelyblank/Anime-MERN"
               
             />
           </Col>
-          
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={handtrack}
               isBlog={false}
-              title="Anime MERN"
-              description="A MERN Stack CRUD Website to introduce me to MERN Technologies."
-              ghLink="https://github.com/completelyblank/Anime-MERN"
+              title="HandTrack_Filter_Capture"
+              description="Computer Vision Project using openCV to read webcam images frame by frame and apply filters through MediaPipe landmark signals."
+              ghLink="https://github.com/completelyblank/handTrack_filter_capture"
               
             />
           </Col>
