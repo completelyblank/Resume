@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6bafc66b-8a3a-4bd5-b81e-c1d57d5d5e2a)
+
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="(https://resumeblank-ayjso57nt-muhammads-projects-b21ff715.vercel.app/" target="_blank">completelyblank.resume</a>
