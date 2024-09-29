@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/](https://resumeblank-ayjso57nt-muhammads-projects-b21ff715.vercel.app/" target="_blank">completelyblank.resume</a>
+  <a href="(https://resumeblank-ayjso57nt-muhammads-projects-b21ff715.vercel.app/" target="_blank">completelyblank.resume</a>
 </h2>
 <br/>
 
@@ -16,7 +16,7 @@ Forked from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://resumeblank-ayjso57nt-muhammads-projects-b21ff715.vercel.app/" target="_blank">completelyblank.resume</a> which features some of my Github projects as well as my Resume and Technical skills.<br/>
 
 This project was built using these technologies.
 
